@@ -36,4 +36,4 @@
 
 ### [Workshop](workshop)
 
-[^1] Not actually designed for mobile
+[^] Not designed for mobile
