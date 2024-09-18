@@ -1,36 +1,36 @@
 # Cheats
 
-### [Brawl](brawl)
+### [Brawl](Brawl)
 
-### [Cafe](cafe)
+### [Cafe](Cafe)
 
-### [Crypto](crypto)
+### [Crypto](Crypto)
 
-### [Dinos](dinos)
+### [Dinos](Dinos)
 
-### [Doom](doom)
+### [Doom](Doom)
 
-### [Factory](factory)
+### [Factory](Factory)
 
-### [Fishing](fishing)
+### [Fishing](Fishing)
 
-### [Flappy](flappy)
+### [Flappy](Flappy)
 
-### [Global](global)
+### [Global](Global)
 
-### [Gold](gold)
+### [Gold](Gold)
 
-### [Kingdom](kingdom)
+### [Kingdom](Kingdom)
 
-### [Racing](racing)
+### [Racing](Racing)
 
-### [Royale](royale)
+### [Royale](Royale)
 
-### [Rush](rush)
+### [Rush](Rush)
 
-### [Tower-defense](tower-defense)
+### [TowerDefense](TowerDefense)
 
-### [Tower-defense-2](tower-defense-2)
+### [TowerDefense-2](TowerDefense-2)
 
 ### [Voyage](voyage)
 
