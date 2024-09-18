@@ -9,7 +9,7 @@ Automatically chooses the best chest to maximize gold
 ## [Auto Choose Once](AutoChooseOnce.js)
 Chooses the best chest to maximize gold
 
-## [Chest ESP](ChestESP.js)
+## [Chest ESP](ChestEsp.js)
 Shows what each chest will give you
 
 ## [Reset Players Gold](ResetPlayersGold.js)
