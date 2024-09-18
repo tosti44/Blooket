@@ -3,7 +3,7 @@
 ## [Auto Choose](AutoChoose.js)
 Automatically choose the best fossil when excavating
 
-## [Rock ESP](RockESP.js)
+## [Rock ESP](RockEsp.js)
 Shows what each rock will give you
 
 ## [Set Fossils](SetFossils.js)
