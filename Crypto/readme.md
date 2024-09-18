@@ -6,10 +6,10 @@ Always get triple crypto
 ## [Auto Guess](AutoGuess.js)
 Selects the correct password when hacking
 
-## [Choice ESP](ChoiceESP.js)
+## [Choice ESP](ChoiceEsp.js)
 Shows what's behind the choice boxes
 
-## [Password ESP](PasswordESP.js)
+## [Password ESP](PasswordEsp.js)
 Highlights the correct password
 
 ## [Remove Hack](RemoveHack.js)
