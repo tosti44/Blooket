@@ -1,5 +1,8 @@
 # Global
 
+## [Anti Ban](AntiBan.js)
+Stops the API request that suspends accounts
+
 ## [Auto Answer](AutoAnswer.js)
 Chooses the correct answer for the current question
 
@@ -14,9 +17,6 @@ Highlights the correct answers in green and incorrect in red
 
 ## [Host Any Gamemode](HostAnyGamemode.js)
 Lets you switch the current gamemode on the host settings page
-
-## [Anti Ban](AntiBan.js)
-Stops the API request that suspends accounts
 
 ## [Remove Name Limit](RemoveNameLimit.js)
 Changes the name limit from 15 to 120 (the limit before you can no longer join)
